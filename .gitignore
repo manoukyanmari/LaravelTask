@@ -1,0 +1,4 @@
+.vagrant/
+.idea/
+env/apt-cache/*
+!env/apt-cache/.gitkeep
